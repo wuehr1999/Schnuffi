@@ -1,0 +1,2 @@
+interface.c:15:6:INTERFACE_Parse	24	static
+interface.c:43:6:INTERFACE_CreateMessage	24	static

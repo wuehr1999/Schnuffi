@@ -1,0 +1,5 @@
+rpmctrl.c:9:6:RPMCTRL_Init	24	static
+rpmctrl.c:25:6:RPMCTRL_Tick	16	static
+rpmctrl.c:45:6:RPMCTRL_Update	24	static
+rpmctrl.c:65:6:RPMCTRL_SetDest	16	static
+rpmctrl.c:78:6:RPMCTRL_Ignore	16	static

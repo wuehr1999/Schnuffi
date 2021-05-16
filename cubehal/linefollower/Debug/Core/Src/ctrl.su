@@ -1,0 +1,2 @@
+ctrl.c:10:6:CTRL_Init	24	static
+ctrl.c:23:7:CTRL_Calculate	32	static

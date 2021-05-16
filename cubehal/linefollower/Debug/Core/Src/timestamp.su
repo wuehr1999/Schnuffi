@@ -1,0 +1,2 @@
+timestamp.c:9:6:Timestamp_Start	16	static
+timestamp.c:14:10:Timestamp_Stop	16	static

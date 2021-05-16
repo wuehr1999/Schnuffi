@@ -1,0 +1,6 @@
+weightedavg.c:9:6:WEIGHTEDAVG_Init	32	static
+weightedavg.c:36:6:WEIGHTEDAVG_Invert	16	static
+weightedavg.c:41:6:WEIGHTEDAVG_SetData	16	static
+weightedavg.c:46:6:WEIGHTEDAVG_Calibrate	24	static
+weightedavg.c:55:6:WEIGHTEDAVG_AddSamples	24	static
+weightedavg.c:76:10:WEIGHTEDAVG_Process	16	static

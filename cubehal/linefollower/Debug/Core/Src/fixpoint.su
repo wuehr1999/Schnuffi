@@ -1,0 +1,6 @@
+fixpoint.c:9:6:FIXPOINT_init	24	static
+fixpoint.c:14:6:FIXPOINT_IsCompatible	16	static
+fixpoint.c:19:12:FIXPOINT_Add	40	static
+fixpoint.c:26:12:FIXPOINT_Substract	40	static
+fixpoint.c:33:12:FIXPOINT_Multiply	40	static
+fixpoint.c:40:12:FIXPOINT_Divide	40	static
