@@ -1,5 +1,5 @@
 # Schnuffi
-A small linefollowing and micromouse robot
+A small linefollowing and micromouse robot.
 
 ## Sensors
 * 9 ITR1201 light sensors
